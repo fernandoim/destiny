@@ -37,10 +37,7 @@ Returns:
 ~~~
 **Note**: 0172 changes according to the number of images stored in that directory.
 
-
-~~~
-filename = destiny('./image.png', '~/videoframes/video/', ext='.mp4')
-~~~
+---
 
 ## Español
 
